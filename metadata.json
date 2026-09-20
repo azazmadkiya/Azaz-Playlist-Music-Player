@@ -1,0 +1,8 @@
+{
+  "name": "Azaz Playlist Music Player",
+  "description": "A clean, minimalist music player powered by YouTube playlist links and curated audio tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
